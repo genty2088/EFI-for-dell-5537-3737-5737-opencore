@@ -5,6 +5,7 @@ Config OpenCore 0.9.4 for Monterey OS, for laptops DELL Inspirion 17R 3737 / 553
 3. Use USB wifi module (if you have the driver)
 
 Sometimes when installing the operating system "VirtualSMC" it gives a panic error; to solve the problem, run the installer a second time.
+Accelerator driver is installed in the config.
 
 Warning
 
